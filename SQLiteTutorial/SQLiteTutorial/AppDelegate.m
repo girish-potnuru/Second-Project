@@ -30,6 +30,7 @@
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     //This is updated by girish
+    //bujji
     return YES;
 }
 
